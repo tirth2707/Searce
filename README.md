@@ -13,5 +13,5 @@
 
 | Day | Topic             | 
 |--------------|------------------|
-| 1 | Hashtable: Retrieve & Remove | 
+| 1 | Heap and Hashtable: Retrieve & Remove | 
 
