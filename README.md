@@ -14,4 +14,5 @@
 | Day | Topic             | 
 |--------------|------------------|
 | 1 | Heap and Hashtable: Retrieve & Remove | 
+| 2 | Sets and Sorting | 
 
