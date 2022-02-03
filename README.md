@@ -16,5 +16,5 @@
 | 1 | Heap and Hashtable: Retrieve & Remove | 
 | 2 | Sets and Sorting | 
 | 3 | Binary Tree, Binary Heap, Heap Sort |
-| 3 | Dynamic Programing |
+| 4 | Dynamic Programing |
 
