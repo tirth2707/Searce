@@ -17,4 +17,5 @@
 | 2 | Sets and Sorting | 
 | 3 | Binary Tree, Binary Heap, Heap Sort |
 | 4 | Dynamic Programing |
+| 5 | Hash table and Function |
 
