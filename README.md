@@ -19,3 +19,12 @@
 | 4 | Dynamic Programing |
 | 5 | Hash table and Function |
 
+## Week 5
+
+
+ | Topic             | 
+ |------------------|
+ | Python and Sql |
+
+
+
